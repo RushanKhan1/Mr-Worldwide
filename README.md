@@ -27,6 +27,12 @@ Do you have a **multicultural** discord sever? Or do you have **language study g
 <br>
 <br>
 
+<p align="center">
+<img src="images/demo.gif" height="700" width="760" >
+</p>
+
+<br>
+
 ## How to use
 
 To translate a sentence on your server simply type:<br> <br>
