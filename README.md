@@ -67,10 +67,15 @@ The installation is simple :), you **do NOT need to know** how to code to get th
 
 <br>
 
-🔴 1. Invite the bot to your server by clicking [here.](https://discord.com/api/oauth2/authorize?client_id=781185611548983326&permissions=523328&scope=bot)🔴
 
-2. Make sure you have [Node.js](https://nodejs.org/en/download/package-manager/) and npm installed.
-3. Clone the repository and then navigate to it in your terminal.
+1. Make sure you have [Node.js](https://nodejs.org/en/download/package-manager/) and npm installed.
+2. Clone the repository and then navigate to it in your terminal.
+3. Create a ```.env``` file with the following contents: <br>
+
+```BOTTOKEN='Your secret bot token'``` <br>
+
+For this you have to create a sample bot on the discord developer portal obtain the secret bot token, put it in the ```.env``` file and then invite the sample bot to your server. 
+
 4. Enter ```npm install``` to install the dependencies.
 5. Enter ```node bot.js``` to run the bot. The bot should be online on your server in a few seconds.
 6. Enjoy!
